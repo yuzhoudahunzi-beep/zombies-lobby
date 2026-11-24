@@ -1,0 +1,11 @@
+# build output
+release/
+dist/
+obj/
+bin/
+*.zip
+*.exe
+# local notes
+_*.png
+_cfg_backup*.json
+_map.tsv
